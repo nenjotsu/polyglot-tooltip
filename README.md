@@ -1,2 +1,2 @@
-# react-tooltip-polyglot
+# polyglot-tooltip
 React Tooltip for polyglot text
